@@ -1,23 +1,10 @@
-![image](https://github.com/user-attachments/assets/af3408d2-4575-4f37-a467-b00c06c1d683)# Algorithm for QR Decomposition
+Decomposition
 ## Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## Equipment’s required:
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-1.	Intialize the matrix Q and u
-2.	The vector u and e is given by
-
-    ![eqn1](./ex4.jpg)
-
-    ![eqn2](./ex6.jpg)
-
-    ![eqn3](./ex3.jpg)
-
-3.	Obtain the Q matrix   
-    ![eqn4](./ex1.jpg)
-4.	Construct the upper triangular matrix R
-    ![eqn5](./ex2.jpg)
 
 
 
@@ -52,7 +39,8 @@ QR_Decomposition(a)
 
 ## Output
 ```
-![image](https://github.com/user-attachments/assets/3a4fe057-e9a7-4d4d-b542-c903f29c2972)
+![image](https://github.com/user-attachments/assets/019df3a9-9bb1-4607-beaa-b10b6059222f)
+
 
 ```
 
