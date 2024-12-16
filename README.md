@@ -10,7 +10,7 @@ Intialize the matrix Q and u
 
 The vector u and e is given by
 
-eqn1
+![eqn5](./ex2.jpg)
 
 eqn2
 
